@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The [Economic Analysis](https://github.com/Nagiotis/Economic-Analysis/tree/main) project leverages **Tableau** to analyze **GDP**, **Unemployment**, and **Inflation** metrics over time. It uses **2021 constant values** and the **"International $" method** for GDP calculations. The main objective is to uncover valuable insights into GDP, unemployment, and inflation trends, explore potential correlations, visualize data on maps, and categorize findings effectively.
+The [Economic Analysis](https://github.com/Nagiotis/DS-Projects/blob/main/Tableau/Economic%20Analysis/Economic%20Analysis.twbx) project leverages **Tableau** to analyze **GDP**, **Unemployment**, and **Inflation** metrics over time. It uses **2021 constant values** and the **"International $" method** for GDP calculations. The main objective is to uncover valuable insights into GDP, unemployment, and inflation trends, explore potential correlations, visualize data on maps, and categorize findings effectively.
 
 ---
 
@@ -114,15 +114,15 @@ The [Economic Analysis](https://github.com/Nagiotis/Economic-Analysis/tree/main)
 ---
 
 ## Datasets / Data Sources 🌱
-- The [`gdp-worldbank.csv`](https://github.com/Nagiotis/Economic-Analysis/blob/main/gdp-worldbank.csv) dataset used in this project originates from the [Gross domestic product (GDP)](https://ourworldindata.org/grapher/gdp-worldbank) data, hosted by *Our World in Data*. It provides historical GDP data for countries worldwide, compiled from multiple sources by the World Bank (2025) with minor processing by *Our World in Data*.  
+- The [`gdp-worldbank.csv`](https://github.com/Nagiotis/DS-Projects/blob/main/Tableau/Economic%20Analysis/gdp-worldbank.csv) dataset used in this project originates from the [Gross domestic product (GDP)](https://ourworldindata.org/grapher/gdp-worldbank) data, hosted by *Our World in Data*. It provides historical GDP data for countries worldwide, compiled from multiple sources by the World Bank (2025) with minor processing by *Our World in Data*.  
 
 For citation and licensing details, refer to the official [Citation Guide gdp-worldbank.csv](https://ourworldindata.org/grapher/gdp-worldbank#reuse-this-work).
 
-- The [`inflation-of-consumer-prices.csv`](https://github.com/Nagiotis/Economic-Analysis/blob/main/inflation-of-consumer-prices.csv) dataset used in this project comes from the [Inflation of Consumer Prices](https://ourworldindata.org/grapher/inflation-of-consumer-prices) data, hosted by *Our World in Data*. It provides historical inflation data sourced from *International Monetary Fund* (via World Bank) (2025) – processed by *Our World in Data*.
+- The [`inflation-of-consumer-prices.csv`](https://github.com/Nagiotis/DS-Projects/blob/main/Tableau/Economic%20Analysis/inflation-of-consumer-prices.csv) dataset used in this project comes from the [Inflation of Consumer Prices](https://ourworldindata.org/grapher/inflation-of-consumer-prices) data, hosted by *Our World in Data*. It provides historical inflation data sourced from *International Monetary Fund* (via World Bank) (2025) – processed by *Our World in Data*.
 
 For citation and licensing details, refer to the official [Citation Guide inflation-of-consumer-prices.csv](https://ourworldindata.org/grapher/inflation-of-consumer-prices#reuse-this-work).
   
-- The [`unemployment-rate.csv`](https://github.com/Nagiotis/Economic-Analysis/blob/main/unemployment-rate.csv) dataset used in this project comes from the [Unemployment Rate](https://ourworldindata.org/grapher/unemployment-rate) data, hosted by *Our World in Data*. It provides historical inflation data sourced from *International Labour Organization* (via World Bank) (2025) – processed by Our World in Data
+- The [`unemployment-rate.csv`](https://github.com/Nagiotis/DS-Projects/blob/main/Tableau/Economic%20Analysis/unemployment-rate.csv) dataset used in this project comes from the [Unemployment Rate](https://ourworldindata.org/grapher/unemployment-rate) data, hosted by *Our World in Data*. It provides historical inflation data sourced from *International Labour Organization* (via World Bank) (2025) – processed by Our World in Data
 
 For citation and licensing details, refer to the official [Citation Guide unemployment-rate.csv](https://ourworldindata.org/grapher/unemployment-rate#reuse-this-work).
 
