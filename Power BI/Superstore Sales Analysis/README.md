@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The [Superstore Sales Analysis]([https://github.com/Nagiotis/Superstore-Sales-Analysis](https://github.com/Nagiotis/DS-Projects/blob/main/Power%20BI/Superstore%20Sales%20Analysis/Sample-Superstore.xlsx)) project utilizes PowerBI to analyze the sales data from the Superstore Sales dataset. The main objective is to provide valuable insights into sales performance, customer behavior and regional trends to drive better business decisions.
+The [Superstore Sales Analysis](https://github.com/Nagiotis/DS-Projects/blob/main/Power%20BI/Superstore%20Sales%20Analysis/Superstore%20Sales%20Analysis.pbix) project utilizes PowerBI to analyze the sales data from the Superstore Sales dataset. The main objective is to provide valuable insights into sales performance, customer behavior and regional trends to drive better business decisions.
 
 ---
 
@@ -66,7 +66,7 @@ The [Superstore Sales Analysis]([https://github.com/Nagiotis/Superstore-Sales-An
 ---
 
 ## Datasets / Data Sources 🌱
-- This project uses the [`Sample-Superstore.xlsx`]([https://github.com/Nagiotis/Superstore-Sales-Analysis/blob/main/Sample-Superstore.xlsx](https://github.com/Nagiotis/DS-Projects/blob/main/Power%20BI/Superstore%20Sales%20Analysis/Sample-Superstore.xlsx)) dataset, which is synthetic and does not represent real-world data. 
+- This project uses the [`Sample-Superstore.xlsx`](https://github.com/Nagiotis/DS-Projects/blob/main/Power%20BI/Superstore%20Sales%20Analysis/Sample-Superstore.xlsx) dataset, which is synthetic and does not represent real-world data. 
 
 It is a commonly used dataset, available on platforms like Kaggle, designed for training and project development.
 
