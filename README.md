@@ -1,7 +1,7 @@
 ## Data Science / Analysis Projects
 
 ---
-**Tableu Projects**
+**Tableau Projects**
 - [Economic Analysis](https://github.com/Nagiotis/DS-Projects/tree/main/Tableau/Economic%20Analysis)
 
 **Power BI Projects**
